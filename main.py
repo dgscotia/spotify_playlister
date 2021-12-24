@@ -7,6 +7,7 @@ import spotipy
 from bs4 import BeautifulSoup
 from spotipy.oauth2 import SpotifyOAuth
 
+# TESTING WHETHER IT MERGES ONLINE
 # todo clean up the list and remove tracks "not found" --> for some reason not all being removed
 # todo figure out why user_playlist_add_tracks not working
 # todo rewrite it all into functions
